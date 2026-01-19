@@ -1,5 +1,8 @@
 # Część obowiązkowa
 
+## Opis aplikacji
+Zaimplementowano aplikację w stacku LAMP (PHP+MySQL) weryfikującą połączenie z bazą danych. Kod źródłowy wstrzykiwany jest dynamicznie przez ConfigMap, a dostęp zewnętrzny zapewnia kontroler Ingress
+
 ## Inicjalizacja klastra
 <img width="1366" height="508" alt="image" src="https://github.com/user-attachments/assets/c2b35402-d175-4681-bf03-05f3dea8a30a" />
 
